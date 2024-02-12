@@ -1,0 +1,8 @@
+[
+  {"model": "goods.categories", "pk": 1, "fields": {"name": "Кухня", "slug": "kukhnya"}},
+  {"model": "goods.categories", "pk": 2, "fields": {"name": "Спальня", "slug": "spalnya"}},
+  {"model": "goods.categories", "pk": 3, "fields": {"name": "Гостиная", "slug": "gostinaya"}},
+  {"model": "goods.categories", "pk": 4, "fields": {"name": "Офис", "slug": "ofis"}},
+  {"model": "goods.categories", "pk": 5, "fields": {"name": "Фурнитура", "slug": "furnitura"}},
+  {"model": "goods.categories", "pk": 6, "fields": {"name": "Декор", "slug": "dekor"}}
+]
