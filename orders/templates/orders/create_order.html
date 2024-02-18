@@ -87,6 +87,9 @@
                                         id="id_payment_on_get" value="1">
                                     <label class="form-check-label" for="id_payment_on_get">Наличными/картой
                                         при получении</label>
+                                    {% if form.payment_on_get.errors %}
+                                        <div class="alert alert-danger alert-dismissible fade show">{{ form.payment_on_gets.errors }}</div>
+                                    {% endif %}
                                 </div>
                             </div>
                         </div>
